@@ -3,7 +3,7 @@
     "description": "EnjoyDevelop Core",
     "type": "magento2-module",
     "license": "NONE",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "authors": [
         {
             "name": "Vadym Shuliak",
